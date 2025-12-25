@@ -1,0 +1,5 @@
+{
+  "name": "Luminous Particle Christmas Tree",
+  "description": "An interactive, high-performance 3D Christmas tree built with React Three Fiber, featuring glowing particle effects, post-processing bloom, and responsive mouse-based physics.",
+  "requestFramePermissions": []
+}
